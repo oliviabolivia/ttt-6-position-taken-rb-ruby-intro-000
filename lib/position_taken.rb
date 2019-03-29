@@ -3,6 +3,6 @@ def position_taken?(board, index)
   if board[index] = " "
   taken = false
   else
-  taken = true 
+  taken = true
   end
 end
